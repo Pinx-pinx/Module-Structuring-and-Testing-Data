@@ -13,4 +13,10 @@ Try also entering `typeof console`
 Answer the following questions:
 
 What does `console` store?
-What does the syntax `console.log` or `console.assert` mean? In particular, what does the `.` mean?
+Answer: The concole is an object that stores objects that gives various methods for logging information,debugging and monitoring what's happening in youur javascript.
+
+What does the syntax `console.log` or `console.assert` mean? In particular, 
+Answer: console.log and console.assert are both a function stores by console. They both output/print out a message but in a different way.
+
+what does the `.` mean?
+Answer: The `.` is an access operator for the objects stored in console.
