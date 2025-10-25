@@ -22,7 +22,7 @@ function formatAs12HourClock(time) {
   return `${displayHoursStr}:${minutes} ${period}`;
 }
 
-// Individual console.assert tests like your original code
+
 const currentOutput = formatAs12HourClock("08:00");
 const targetOutput = "08:00 am";
 console.assert(
